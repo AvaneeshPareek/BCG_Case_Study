@@ -1,0 +1,4 @@
+pyspark>=3.5.3
+
+[dev]
+twine>=4.0.2

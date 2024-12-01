@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: crash-accidents-analysis
+Version: 0.1
+Summary: Analyses crash data to provide answers to given questions
+Home-page: 
+Author: Avaneesh Pareek
+Author-email: pareekavi10@gmail.com
+License: None
+Classifier: License :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: MacOS
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+# BCG_Case_Study
