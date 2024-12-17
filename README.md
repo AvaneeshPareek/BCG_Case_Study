@@ -1,6 +1,6 @@
 # BCG Case Study
 
-Spark Submit command to be executed in spark folder\
+>Spark Submit command to be executed in spark folder\
 Here I have used **spark-3.5.3-bin-hadoop3** \
 Go to **spark-3.5.3-bin-hadoop3/bin/** directory and execute the **run.py** file mentioning the distribution package 
 
